@@ -1,4 +1,4 @@
 // Write your solution here!
 removeFirst(){
-  pets.pop;
+  pets.shift;
 }
